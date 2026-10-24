@@ -1,0 +1,16 @@
+{
+  "name": "5th-assignment-student-registration-validation",
+  "version": "1.0.0",
+  "description": "Student Registration System using ExpressJS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
